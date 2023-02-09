@@ -1,0 +1,28 @@
+html {
+    background: black;
+}
+
+
+body {
+    font-size: 25px;
+    background: black;
+    color: white;
+}
+/* period(.) = div class*/
+.links-box {
+    width: 150px;
+    border: 5px solid white;
+    padding: 1px;
+}
+.links-div {
+    text-align: left;
+    text-align: center;
+    padding: 1px;
+}
+/* hashtag(#) = div id*/
+#canvas{
+    background: black;
+    padding: 0;
+    margin: 0 auto;
+    
+}
