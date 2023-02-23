@@ -10,11 +10,12 @@ body {
 }
 /* period(.) = div class*/
 .links-box {
-    width: 150px;
+    width: 250px;
     border: 5px solid white;
     padding: 1px;
 }
 .links-div {
+    color: white;
     text-align: left;
     text-align: center;
     padding: 1px;
@@ -25,4 +26,8 @@ body {
     padding: 0;
     margin: 0 auto;
     
+}
+.link{
+    color: white;
+    text-decoration: none;
 }
